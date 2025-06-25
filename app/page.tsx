@@ -1,5 +1,5 @@
 // app/page.tsx
-
+//ss
 import { getProjects } from '@/lib/data';
 import { Project } from '@/lib/definitions'; // Impor tipe Project dari file terpusat
 
